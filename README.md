@@ -12,8 +12,8 @@ Use `@Idea help <command name>` to get usage instructions.
 * !karma
 > Dummy command to initialize package variables
 
-* KarmaAdderCommand
+* karma
 > Add/Remove karma to a word or phrase
 
-* KarmaValueCommand
+* karmaval
 > Get the karma for a word or phrase

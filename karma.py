@@ -5,7 +5,7 @@ KARMA_UP_LOC = "karmauploc"
 KARMA_DOWN_LOC = "karmadownloc"
 
 class Command(command.Command):
-    '''KarmaAdderCommand finds ++ and -- messages and adjusts the karma
+    '''Finds upvotes and downvotes in messages and adjusts the karma
 appropriately.
 
 **Usage**
